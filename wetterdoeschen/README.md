@@ -5,7 +5,6 @@ Wetterdöschen
 Unsere senseBox enthält die mitgelieferten Sensoren für Temperatur/Luftfeuchtigkeit und UV-Strahlung sowieso einen Sensor für ein Gemisch aus diversen Gasen, der nicht im Lieferumfang enthalten war.
 
 Materialien
------------
 ----------
 **Aus der senseBox:edu**
 -	Genuino UNO
