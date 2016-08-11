@@ -1,25 +1,28 @@
 
 Wetterdöschen
 ===================
+----------
 Unsere senseBox enthält die mitgelieferten Sensoren für Temperatur/Luftfeuchtigkeit und UV-Strahlung sowieso einen Sensor für ein Gemisch aus diversen Gasen, der nicht im Lieferumfang enthalten war.
 
 Materialien
 -----------
+----------
 **Aus der senseBox:edu**
-•	Genuino UNO
-•	Ethernet-Shield
-•	HDC1000 (Temperatur&Luftfeuchtigkeitssensor)
-•	VEML6070 (UV-Lichtsensor)
+-	Genuino UNO
+-	Ethernet-Shield
+-	HDC1000 (Temperatur&Luftfeuchtigkeitssensor)
+-	VEML6070 (UV-Lichtsensor)
 
 **Zusätzliche Hardware**
-•	MQ 5 (Gas-Sensor)
-•	diverse Kabel
-•	Ethernet-Kabel
-•	Power-over-Ethernet-Adapter
-•	Ventilator
+-	MQ 5 (Gas-Sensor)
+-	diverse Kabel
+-	Ethernet-Kabel
+-	Power-over-Ethernet-Adapter
+-	Ventilator
 
 Setup Beschreibung
 -----------
+----------
 **Hardwarekonfiguration**
 
 Die Sensoren befinden sich „lose“ in der Box. Da auf dem senseBox-Shield nicht genug Steckplätze für alle drei Sensoren vorhanden waren, haben wir mehrere Kabel zusammengelötet. 
@@ -155,6 +158,7 @@ void waitForServerResponse()
 
 OpenSenseMap Registrierung
 -----------
+----------
 Unsere Box wurde bei OpenSenseMap unter dem Namen „Wetterdöschen“ registriert. Dort haben wir 4 Sensoren angegeben (da einer der Sensoren zwei unterschiedliche Werte misst):
 •  UV-Intensität(µW/cm²) 
 •  Temperatur(°C)
@@ -163,11 +167,13 @@ Unsere Box wurde bei OpenSenseMap unter dem Namen „Wetterdöschen“ registrie
 
 Stationsaufbau
 -----------
+----------
 Die Station steht auf einem schattigen Balkon in MS-Gievenbeck.
 ![enter image description here](https://pp.vk.me/c631526/v631526290/40dd1/DW9qx2RqYhk.jpg)
 
 Kontakt
 -----------
+----------
 [Daniela Heines](daniela.heines@uni-muenster.de)
  [Anna Formaniuk](a_form03@uni-muenster.de)
 
