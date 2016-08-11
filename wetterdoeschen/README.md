@@ -1,7 +1,6 @@
 
 Wetterdöschen
 ===================
-----------
 Unsere senseBox enthält die mitgelieferten Sensoren für Temperatur/Luftfeuchtigkeit und UV-Strahlung sowieso einen Sensor für ein Gemisch aus diversen Gasen, der nicht im Lieferumfang enthalten war.
 
 Materialien
@@ -20,7 +19,6 @@ Materialien
 -	Ventilator
 
 Setup Beschreibung
------------
 ----------
 **Hardwarekonfiguration**
 
@@ -156,7 +154,6 @@ void waitForServerResponse()
 
 
 OpenSenseMap Registrierung
------------
 ----------
 Unsere Box wurde bei OpenSenseMap unter dem Namen „Wetterdöschen“ registriert. Dort haben wir 4 Sensoren angegeben (da einer der Sensoren zwei unterschiedliche Werte misst):
 •  UV-Intensität(µW/cm²) 
@@ -165,13 +162,11 @@ Unsere Box wurde bei OpenSenseMap unter dem Namen „Wetterdöschen“ registrie
 •  Gas (H2, LPG, CH4, CO, Alkohol)
 
 Stationsaufbau
------------
 ----------
 Die Station steht auf einem schattigen Balkon in MS-Gievenbeck.
 ![enter image description here](https://pp.vk.me/c631526/v631526290/40dd1/DW9qx2RqYhk.jpg)
 
 Kontakt
------------
 ----------
 [Daniela Heines](daniela.heines@uni-muenster.de)
  [Anna Formaniuk](a_form03@uni-muenster.de)
